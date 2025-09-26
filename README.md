@@ -1,6 +1,12 @@
 # ST10466328-WEDE5020-Part2
 Overview 
+In part 2 , I deepened my understanding of how to visually shape web pages using CSS. I successfully created an external CSS style sheet and linked it across all my pages, which helped maintain a consistent design throughout my site.
 
+I learned to choose the right selectors for different elements and applied decorative, typographic, and layout styles to give my pages a polished, cohesive look. One of the most valuable insights was understanding the cascading nature of CSS—it allowed me to style efficiently with fewer selectors.
+
+Using browser developer tools became second nature as I refined my styles and debugged layout issues. I also tackled responsive design head-on, applying relative units, media queries, and breakpoints to ensure my site looks great on mobile devices.
+
+Before diving into this section, I reviewed feedback from Part 1, which helped me improve and build on my earlier work. Overall, this part was a game-changer in how I approach visual design and responsiveness in web development.
 
 Referencing
 
